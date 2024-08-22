@@ -4,7 +4,7 @@ image: https://i1.wp.com/www.linuxandubuntu.com/wp-content/uploads/2019/07/What-
 description: 本共筆整理在 GNU/Linux 開發程式的資訊
 ---
 
-# GNU/Linux 開發工具
+# GNU/Linux 開發工具ahahnnnnnn
 
 本共筆整理在 GNU/Linux 開發程式的資訊
 
